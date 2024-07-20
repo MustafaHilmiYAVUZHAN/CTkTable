@@ -96,5 +96,5 @@ _here, **args** means ctkbutton parameters which can also be passed_
 
 Note: This library is at early stage so there can be some performance issues.
 ### Thanks for visiting! Hope it will help :)
-A small addition from [Mustafa Hilmi Yavuzhan]
+A small addition from [MustafaHilmiYAVUZHAN](https://github.com/MustafaHilmiYAVUZHAN)
 
